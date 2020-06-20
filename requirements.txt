@@ -10,7 +10,7 @@ requests_oauthlib
 django-crispy-forms==1.7.2
 langdetect==1.0.7
 google-api-python-client
-PyYAML==3.10
+PyYAML==5.1
 ua-parser==0.8.0
 user-agents==2.0
 python-amazon-paapi5
