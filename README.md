@@ -3,7 +3,9 @@
 ## Details
 
 Created by Adee Macdowell
+
 Django powered demo site
+
 Html template from Unify 2.6.3
 
 ## Demo processes:
