@@ -17,7 +17,7 @@ DATABASES = {
     }
 }
 
-EMAIL_HOST_PASSWORD = 'bismila1'
+EMAIL_HOST_PASSWORD = '>:#gd"dq.M36X+%M'
 
 
 

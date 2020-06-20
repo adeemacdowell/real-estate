@@ -6,7 +6,7 @@ EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'job.scout.ri@gmail.com'
-EMAIL_HOST_PASSWORD = 'bismila1'
+EMAIL_HOST_PASSWORD = '>:#gd"dq.M36X+%M'
 DEFAULT_FROM_EMAIL = "Automated Email <job.scout.ri@gmail.com>"
 
 ADMINS = (
