@@ -1,0 +1,16 @@
+django>=1.11, <2
+mysql-python==1.2.5
+python-dateutil==2.6.0
+bottlenose==1.1.7
+beautifulsoup4==4.6.0
+lxml==4.1.1
+django-robots
+requests
+requests_oauthlib
+django-crispy-forms==1.7.2
+langdetect==1.0.7
+google-api-python-client
+PyYAML==3.10
+ua-parser==0.8.0
+user-agents==2.0
+python-amazon-paapi5
